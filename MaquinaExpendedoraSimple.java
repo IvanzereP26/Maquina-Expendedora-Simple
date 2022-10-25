@@ -37,6 +37,9 @@ public class MaquinaExpendedoraSimple {
     public int getPrecioBillete() {
         return precioBillete;
     }
+    public void setPrecioBillete (int precioDeBillete){
+        precioBillete = precioDeBillete;
+    }
 
     /**
      * Devuelve la cantidad de dinero que el cliente actual lleva introducida
