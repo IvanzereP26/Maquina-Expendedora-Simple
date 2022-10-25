@@ -28,7 +28,7 @@ public class MaquinaExpendedoraSimple {
         balanceClienteActual = 0;
         totalDineroAcumulado = 0;
         estacionOrigen = "León";
-        estacionDestino = "destino";
+        estacionDestino = destino;
     }
 
     /**
